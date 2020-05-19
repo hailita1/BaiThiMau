@@ -1,0 +1,6 @@
+﻿@model IEnumerable<BaiThiMau.Models.Entity.tQuocGia>
+
+    @foreach (var item in Model)
+    {
+        @Html.ActionLink(item.TenNuoc, "getItem", new { manuoc = item.MaNuoc })
+    }

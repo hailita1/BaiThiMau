@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_NewLayout.cshtml";
+}
+@model BaiThiMau.Models.Entity.tDanhMucSP 
+
+<div class=" content-site col-sm-9">
+    <div class="row ">
+        <div class="col-sm-4">
+            <img src="~/Images/@Model.Anh" alt="" height="350" width="350">
+            <br>
+            <a href="/layout/DeleteProduct/@Model.MaSP">Xóa sản phẩm</a>
+            <br>
+            <a href="/layout/EditProduct/@Model.MaSP">Sửa sản phẩm</a>
+        </div>
+            <div class="col-sm-5" id="detail">
+                <h2 id="tensp" class="uppercase">@Model.TenSP</h2>
+                <p id="danhgia">123 đánh giá</p>
+                <p id="quocgia">  @Html.DisplayFor(modelItem => Model.tQuocGia.TenNuoc) </p>
+                <p id="description">@Model.GioiThieuSP</p>
+                <h2 id="giatien" class="uppercase">GIÁ BÁN: @Model.Gia </h2>
+            </div>
+    </div>
+    <p style="height: 200px"></p>
+
+</div>
+
+

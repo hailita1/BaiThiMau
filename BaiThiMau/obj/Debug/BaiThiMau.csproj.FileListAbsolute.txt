@@ -1,0 +1,379 @@
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\ApplicationInsights.config
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\BaiThiMau.dll.config
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\BaiThiMau.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\BaiThiMau.pdb
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csc.exe
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csc.exe.config
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csc.rsp
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csi.exe
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csi.exe.config
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csi.rsp
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.Managed.Core.targets
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.AppContext.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Collections.Immutable.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Console.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Compression.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.FileSystem.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Pipes.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Reflection.Metadata.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.AccessControl.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Claims.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Principal.Windows.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.ValueTuple.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XmlDocument.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XPath.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\vbc.exe
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\vbc.exe.config
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\vbc.rsp
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\VBCSCompiler.exe
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\VBCSCompiler.exe.config
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Antlr3.Runtime.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\EntityFramework.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\EntityFramework.SqlServer.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Agent.Intercept.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.DependencyCollector.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Web.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.WindowsServer.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.ApplicationInsights.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.Web.Infrastructure.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Newtonsoft.Json.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Diagnostics.DiagnosticSource.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Helpers.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Mvc.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Optimization.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Razor.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Deployment.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Razor.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\WebGrease.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\EntityFramework.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\EntityFramework.SqlServer.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Helpers.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Mvc.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Optimization.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Razor.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Deployment.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Razor.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Newtonsoft.Json.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Antlr3.Runtime.pdb
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Diagnostics.DiagnosticSource.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.DependencyCollector.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.WindowsServer.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Web.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csprojAssemblyReference.cache
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csproj.CoreCompileInputs.cache
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csproj.CopyComplete
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.dll
+G:\STUDY\Nam 3\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.pdb
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\ApplicationInsights.config
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\BaiThiMau.dll.config
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\BaiThiMau.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\BaiThiMau.pdb
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csc.exe
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csc.exe.config
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csc.rsp
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csi.exe
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csi.exe.config
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\csi.rsp
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.AppContext.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Collections.Immutable.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Console.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Compression.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.FileSystem.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Pipes.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.AccessControl.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Claims.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.ValueTuple.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XPath.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\vbc.exe
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\vbc.exe.config
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\vbc.rsp
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\VBCSCompiler.exe
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\roslyn\VBCSCompiler.exe.config
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Antlr3.Runtime.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\EntityFramework.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\EntityFramework.SqlServer.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Web.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.WindowsServer.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.ApplicationInsights.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.Web.Infrastructure.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Newtonsoft.Json.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Helpers.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Mvc.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Optimization.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Razor.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Deployment.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Razor.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\WebGrease.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\EntityFramework.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\EntityFramework.SqlServer.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Helpers.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Mvc.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Optimization.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.Razor.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Deployment.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Razor.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Newtonsoft.Json.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Antlr3.Runtime.pdb
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.WindowsServer.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Web.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csprojAssemblyReference.cache
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csproj.CopyComplete
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.dll
+E:\Ki 2\Lap trinh web\On thi\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.pdb
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\ApplicationInsights.config
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\BaiThiMau.dll.config
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\BaiThiMau.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\BaiThiMau.pdb
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\csc.exe
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\csc.exe.config
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\csc.rsp
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\csi.exe
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\csi.exe.config
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\csi.rsp
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.AppContext.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Console.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Compression.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Pipes.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Claims.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.ValueTuple.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XPath.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\vbc.exe
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\vbc.exe.config
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\vbc.rsp
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\VBCSCompiler.exe
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Antlr3.Runtime.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\EntityFramework.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\EntityFramework.SqlServer.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Web.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.ApplicationInsights.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Newtonsoft.Json.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.Helpers.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.Mvc.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.Optimization.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.Razor.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Deployment.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Razor.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\WebGrease.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\EntityFramework.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\EntityFramework.SqlServer.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.Helpers.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.Mvc.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.Optimization.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.Razor.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Deployment.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Razor.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Newtonsoft.Json.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Antlr3.Runtime.pdb
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Web.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csprojAssemblyReference.cache
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csproj.CoreCompileInputs.cache
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csproj.CopyComplete
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.dll
+C:\Users\haili\Downloads\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.pdb
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\ApplicationInsights.config
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\BaiThiMau.dll.config
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\BaiThiMau.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\BaiThiMau.pdb
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\csc.exe
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\csc.exe.config
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\csc.rsp
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\csi.exe
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\csi.exe.config
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\csi.rsp
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.AppContext.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Console.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Compression.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Claims.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.ValueTuple.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\vbc.exe
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\vbc.exe.config
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\vbc.rsp
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\VBCSCompiler.exe
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Antlr3.Runtime.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\EntityFramework.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\EntityFramework.SqlServer.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Web.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Newtonsoft.Json.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.Helpers.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.Mvc.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.Optimization.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.Razor.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Razor.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\WebGrease.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\EntityFramework.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\EntityFramework.SqlServer.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.Helpers.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.Mvc.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.Optimization.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.Razor.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Web.WebPages.Razor.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Newtonsoft.Json.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Antlr3.Runtime.pdb
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.AI.Web.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csprojAssemblyReference.cache
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csproj.CoreCompileInputs.cache
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.csproj.CopyComplete
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.dll
+C:\Users\Phantom\Desktop\BaiThiMau\BaiThiMau\obj\Debug\BaiThiMau.pdb

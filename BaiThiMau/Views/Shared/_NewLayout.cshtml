@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+</head>
+<body>
+    <div class="container-fluid ">
+        <div id="header" class="text-center">
+            @RenderPage("_NewHeader.cshtml")
+        </div>
+        @*<div class="container-fluid">
+                <div class="container-fluid">
+                    <div class="row">
+                        <button class="btn btn-primary">
+                            @Html.ActionLink("Create","CreateProduct")
+                        </button>
+                    </div>
+                </div>
+
+            </div>*@
+        <div id="body" class="container-fluid text-center">
+            <div class="row">
+                <div class=" content-site col-sm-9">
+                    <div class="row ">
+                        <a href="#">
+                            @RenderBody()
+                        </a>
+                    </div>
+
+                </div>
+                <div class="sidebar-site col-sm-3 menu">
+                    <ul>
+                        @Html.Action("CreateMenu", "Layout")
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="footer" class="text-center">
+            @RenderPage("_NewFooter.cshtml")
+        </div>
+    </div>
+</body>
+</html>
